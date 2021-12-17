@@ -24,11 +24,6 @@ Authentication Android application using <a href="https://firebase.google.com/">
 
 ### **`Preview Firebase Auth with Phone Number`**
 
-| Syntax    | Description |   Test Text |
-| :-------- | :---------: | ----------: |
-| Header    |    Title    | Here's this |
-| Paragraph |    Text     |    And more |
-
 <img src="Screenshot_App/Screenshot 2021-12-17 120050.png" height="500"/>
 
 ### **`Preview UI FirebaseAuth-PhoneNumber`**
